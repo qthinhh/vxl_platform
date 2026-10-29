@@ -1,0 +1,22 @@
+# PlatformIO build output
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# PlatformIO/IDE metadata
+.clangd/
+.cache/
+.vscode/
+.idea/
+*.code-workspace
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Temporary/editor files
+*.swp
+*.swo
+*~
+*.tmp
+*.log
